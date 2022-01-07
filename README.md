@@ -1,3 +1,3 @@
 # RestaurantRater
 
-# Swift Application that allows rating meals for restaurants
+Swift Application that allows rating meals for restaurants
